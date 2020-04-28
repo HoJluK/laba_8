@@ -1,0 +1,6 @@
+D:\Laboratory_pr\laba_8\laba_8\bin\Debug\laba_8.exe.config
+D:\Laboratory_pr\laba_8\laba_8\bin\Debug\laba_8.exe
+D:\Laboratory_pr\laba_8\laba_8\bin\Debug\laba_8.pdb
+D:\Laboratory_pr\laba_8\laba_8\obj\Debug\laba_8.csprojResolveAssemblyReference.cache
+D:\Laboratory_pr\laba_8\laba_8\obj\Debug\laba_8.exe
+D:\Laboratory_pr\laba_8\laba_8\obj\Debug\laba_8.pdb
